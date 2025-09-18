@@ -1,1 +1,1 @@
-console.log("Happy coding!");
+console.log("to je sileny")
