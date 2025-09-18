@@ -15,7 +15,7 @@ export function generateArithmeticSequenceByCount(
     for(let i = start; i <= start + i * step; i += step) {
         out.push(i);
     }
-    */
+    */ 
     return out;
 }
 
